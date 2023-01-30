@@ -1,5 +1,5 @@
 packages:
-- package: fivetran/twitter_organic_source
-  version: [">=0.2.0", "<0.3.0"]
-- package: fivetran/dbt_linkedin_pages
-  version: [">=0.2.0", "<0.3.0"]
+- package: fivetran/twitter_organic
+  version: 0.2.0
+- package: fivetran/linkedin_pages
+  version: 0.2.0
